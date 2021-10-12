@@ -1,0 +1,7 @@
+E:\Project\C#\CheatCaculator\bin\Debug\CheatCaculator.exe.config
+E:\Project\C#\CheatCaculator\bin\Debug\CheatCaculator.exe
+E:\Project\C#\CheatCaculator\bin\Debug\CheatCaculator.pdb
+E:\Project\C#\CheatCaculator\obj\Debug\CheatCaculator.csproj.AssemblyReference.cache
+E:\Project\C#\CheatCaculator\obj\Debug\CheatCaculator.csproj.CoreCompileInputs.cache
+E:\Project\C#\CheatCaculator\obj\Debug\CheatCaculator.exe
+E:\Project\C#\CheatCaculator\obj\Debug\CheatCaculator.pdb

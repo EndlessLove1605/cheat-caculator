@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using number;
 
 namespace CheatCaculator
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			double d = .6;
+
+			Console.WriteLine($"check = {new Fraction(d)}");
+		}
+	}
 }
