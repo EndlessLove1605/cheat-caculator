@@ -1,0 +1,16 @@
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\CheatCaculator.exe
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\CheatCaculator.deps.json
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\CheatCaculator.runtimeconfig.json
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\CheatCaculator.runtimeconfig.dev.json
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\CheatCaculator.dll
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\ref\CheatCaculator.dll
+E:\Project\C#\CheatCaculator\bin\Debug\net5.0\CheatCaculator.pdb
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.csproj.AssemblyReference.cache
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.AssemblyInfoInputs.cache
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.AssemblyInfo.cs
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.csproj.CoreCompileInputs.cache
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.dll
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\ref\CheatCaculator.dll
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.pdb
+E:\Project\C#\CheatCaculator\obj\Debug\net5.0\CheatCaculator.genruntimeconfig.cache
