@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CheatCaculator
-build_property.ProjectDir = E:\Project\C#\CheatCaculator\
+build_property.ProjectDir = e:\Project\C#\CheatCaculator\
