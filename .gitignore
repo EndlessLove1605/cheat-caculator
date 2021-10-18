@@ -12,3 +12,4 @@
 
 # build and debug
 bin/
+obj/
