@@ -2,15 +2,13 @@
  * Created by TruongNBN on 12/10/2021
  */
 
-using System.IO;
-using System.Text.RegularExpressions;
 using System;
 using exception;
 
 namespace number {
 	public class Fraction {
 		// Constructor
-		public Fraction() =>	init(0,1);
+		public Fraction() => init(0,1);
 		public Fraction(long numerator = 0, long denominator = 1) => init(numerator, denominator);
 		public Fraction(long value) => init(value,1);
 		public Fraction(double doubleValue) {
